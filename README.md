@@ -5,4 +5,4 @@
 
 ## Screenshots
 - ![](./images/Picture1.png)
-- ![](./images/Picture1.png)
+- ![](./images/Picture2.png)
