@@ -6,3 +6,8 @@
 ## Screenshots
 - ![](./images/Picture1.png)
 - ![](./images/Picture2.png)
+
+## How to run the program
+- Clone the repository
+- Need to manually modify compat file function cause by python version.
+- 
