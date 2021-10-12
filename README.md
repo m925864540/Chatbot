@@ -9,5 +9,5 @@
 
 ## How to run the program
 - Clone the repository
-- Need to manually modify compat file function cause by python version.
-- 
+- Need to manually modify one file function cause by python version. Inside \venv\Lib\site-packages\sqlalchemy\util, open the file called compat, change the time_func = time.clock to time_func = time.perf_counter()
+
